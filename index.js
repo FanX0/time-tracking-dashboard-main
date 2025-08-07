@@ -58,7 +58,7 @@ fetch("data.json")
         return `
         <div class="category">
          <div class="category-${formattedTitle}" alt="${formattedTitle}">
-            <img src="./images/icon-${formattedTitle}.svg" >
+            <img src="./images/icon-${formattedTitle}.svg" alt="${formattedTitle}" >
          </div>
         
         
