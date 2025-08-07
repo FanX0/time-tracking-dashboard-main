@@ -170,7 +170,6 @@ body {
 
 @media (min-width: 48rem) {
   body {
-    margin: 13.5rem;
     height: 100vh;
     width: 100vw;
     display: flex;
